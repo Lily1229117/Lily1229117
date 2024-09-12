@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🤗
 
-###Meu nome é *Lily*
+Meu nome é *Lily*
 
 _Estou estudando na [Alura](https://www.alura.com.br)_
 
